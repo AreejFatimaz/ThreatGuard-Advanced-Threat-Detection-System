@@ -2,7 +2,9 @@
 
 ## Overview
 
-ThreatGuard is an advanced threat detection system that utilizes the CICIDS 2017 dataset for network traffic analysis and anomaly detection.
+ThreatGuard is an advanced threat detection system that utilizes the CICIDS 2017 dataset for network traffic analysis and anomaly detection. By applying machine learning models, ThreatGuard identifies and classifies various network threats such as DDoS attacks, brute force attacks, and more. The system provides an efficient method for detecting network anomalies and ensuring network security in modern infrastructure.
+
+This project is designed to enhance the detection of potential eavesdropping risks and improve the overall security of IoT networks.
 
 ## Installation
 
