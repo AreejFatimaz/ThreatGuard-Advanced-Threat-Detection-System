@@ -17,3 +17,4 @@ ThreatGuard is an advanced threat detection system that utilizes the CICIDS 2017
 ## Files
 
 - `data/`: Contains dataset files.
+- `src/`: Contains source code for data preprocessing, feature extraction, model training, and anomaly detection.
